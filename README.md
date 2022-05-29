@@ -1,6 +1,6 @@
 # Food Effects
 
-Simple application to allow tracking of food consumed and the immediate physical effects experienced.  e.g. gas, bloating, diarrhea constipation, dyspnea (shortness of breath),  (increased heart rate), etc.
+Simple application to allow tracking of food consumed and the immediate physical effects experienced.  e.g. gas, bloating, diarrhea, constipation, dyspnea (shortness of breath), tachycardia (increased heart rate), etc.
 
 ## Dataset
 
