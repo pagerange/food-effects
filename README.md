@@ -1,6 +1,6 @@
 # Food Effects
 
-Simple application to allow tracking of food consumed and the immediate physical effects experienced.  e.g. gas, bloating, diarrhea, constipation, dyspnea (shortness of breath), tachycardia (increased heart rate), etc.
+First step in developing a simple application to track effects of consuming different foods: conversion of existing CSV food data to SQL import scripts (for MySQL and SQLite).
 
 ## Dataset
 
